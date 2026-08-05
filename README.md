@@ -1,6 +1,6 @@
 # 🧠 AI-ML-DS Foundation Journey
 
-`ROADMAP` `IN PROGRESS` `Day 2 / 60` `Last Updated: August 2026`
+`ROADMAP` `IN PROGRESS` `Day 3 / 60` `Last Updated: August 2026`
 
 ## 👋 Introduction
 
@@ -14,7 +14,7 @@ Welcome to my 60-day AI/ML & Data Science foundation journey! This repository do
 
 | Category | Skills | Progress |
 |---|---|---|
-| Programming | Python, Git & GitHub | 🟢🟢⚪⚪⚪ |
+| Programming | Python, Git & GitHub | 🟢🟢🟢⚪⚪ |
 | Data Engineering | SQL, Linux | ⚪⚪⚪⚪⚪ |
 | Math for ML | Linear Algebra, Calculus, Probability & Stats | ⚪⚪⚪⚪⚪ |
 | Data Science | NumPy, Pandas, Matplotlib, Seaborn | ⚪⚪⚪⚪⚪ |
@@ -52,7 +52,7 @@ My 60-day journey is divided into 14 phases:
 | Phase | Status | Completion |
 |---|---|---|
 | 1. Python Quick Revision | 🟢 Complete | 100% (Day 2/2) |
-| 2. Advanced Python | ⚪ Not Started | 0% |
+| 2. Advanced Python | 🟡 In Progress | 14% (Day 1/7) |
 | 3. Git & GitHub | ⚪ Not Started | 0% |
 | 4. Project 1 | ⚪ Not Started | 0% |
 | 5. Linux | ⚪ Not Started | 0% |
@@ -72,6 +72,7 @@ My 60-day journey is divided into 14 phases:
 
 - [x] **Day 1** — Core Syntax Refresh (variables, data types, operators, conditionals, ternaries) → Number Detective CLI
 - [x] **Day 2** — Data Structures Refresh (strings, lists, tuples, sets, dicts) → Text Analyzer
+- [x] **Day 3** — Functions Deep Dive & Functional Programming (*args/**kwargs, closures, LEGB, map/filter/reduce, zip/enumerate) → Functional Data Pipeline
 
 ---
 
@@ -81,6 +82,7 @@ My 60-day journey is divided into 14 phases:
 AI-ML-DS-Foundation-Journey/
 ├── day01/          → Day 1 — Python core syntax refresh
 ├── day02/          → Day 2 — Data structures refresh
+├── day03/          → Day 3 — Functions deep dive & functional programming
 ├── notes/          → daily takeaway notes (day01_python_basics.md, ...)
 └── README.md
 ```
